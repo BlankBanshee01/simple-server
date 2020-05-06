@@ -1,0 +1,28 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "simple server using HTTP module",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlankBanshee01/simple-server.git"
+  },
+  "keywords": [
+    "node",
+    "HTTP"
+  ],
+  "author": "BlankBanshee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlankBanshee01/simple-server/issues"
+  },
+  "homepage": "https://github.com/BlankBanshee01/simple-server#readme",
+  "dependencies": {
+    "mime": "^2.4.5",
+    "path": "^0.12.7"
+  }
+}

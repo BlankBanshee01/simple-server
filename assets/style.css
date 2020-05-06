@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background: linear-gradient(90deg, #ff0000 , #ffff00);
+}
+
+.title {
+    margin-top: 1.5em;
+    text-align: center;
+    font-size: 3em;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+}
+
+.choose, h3{
+    text-align: center;
+}
+
+div {
+    display: block;
+    text-align: center;
+}
